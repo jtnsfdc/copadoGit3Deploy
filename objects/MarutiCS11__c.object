@@ -11,7 +11,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-    
         <fullName>MRP__c</fullName>
         <externalId>false</externalId>
         <label>MRP</label>
