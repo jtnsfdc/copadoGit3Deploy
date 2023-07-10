@@ -169,24 +169,5 @@
     <searchLayouts/>
     <sharingModel>Read</sharingModel>
     <visibility>Public</visibility>
-    <fields>
-        <fullName>MRP__c</fullName>
-        <description>Mrp of the car</description>
-        <externalId>false</externalId>
-        <label>MRP</label>
-        <precision>12</precision>
-        <required>true</required>
-        <scale>2</scale>
-        <trackTrending>false</trackTrending>
-        <type>Currency</type>
-    </fields>
-    <fields>
-        <fullName>Manufactering_Date__c</fullName>
-        <description>manufacturing date</description>
-        <externalId>false</externalId>
-        <label>Manufactering Date</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
+
 </CustomObject>
